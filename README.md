@@ -8,3 +8,8 @@ Given 2 ways to find spam:
   2. using message text processing
 
 Data set: [smsspamcollection.tsv](https://github.com/PollyIva/NLP-projects/blob/main/smsspamcollection.tsv)
+
+
+### [2.Hate_speech](https://github.com/PollyIva/NLP-projects/blob/main/Hate_speech.ipynb)
+
+Data set: [test.csv](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge) 
