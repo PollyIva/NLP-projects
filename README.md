@@ -10,7 +10,7 @@ Given 2 ways to find spam:
 Data set: [smsspamcollection.tsv](https://github.com/PollyIva/NLP-projects/blob/main/smsspamcollection.tsv)
 
 
-### [2.Detecting Hate tweets](https://github.com/PollyIva/NLP-projects/blob/main/Detecting%20Hate%20tweets/toxify_ML.ipynb)
+### [2.Detecting Hate tweets](https://github.com/PollyIva/NLP-projects/blob/main/Detecting%20Hate%20tweets/toxify_ML_05.03.ipynb)
 
 Data set: [test.csv](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge) 
 
