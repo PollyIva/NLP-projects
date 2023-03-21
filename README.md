@@ -1,6 +1,8 @@
 # NLP-projects
 
-### [1.Spam Classifier](https://github.com/PollyIva/NLP-projects/blob/main/Spam_classifier.ipynb)
+### [1.Spam Classifier](https://github.com/PollyIva/NLP-projects/blob/main/Spam%20Classifier/Spam_classifier.ipynb)
+
+This project aims to create a spam classifier using natural language processing techniques. The dataset used for this project contains a collection of SMS messages labeled as spam or ham.
 
 Given 2 ways to find spam:
 
@@ -8,6 +10,8 @@ Given 2 ways to find spam:
   2. using message text processing
 
 Data set: [smsspamcollection.tsv](https://github.com/PollyIva/NLP-projects/blob/main/smsspamcollection.tsv)
+
+Libraries: NumPy, pandas, scikit-learn, NLTK, Matplotlib, Seaborn
 
 
 ### [2.Detecting Hate tweets](https://github.com/PollyIva/NLP-projects/blob/main/Detecting%20Hate%20tweets/toxify_ML_05.03.ipynb)
