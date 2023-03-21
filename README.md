@@ -20,5 +20,5 @@ This project aims to detect hate speech in tweets using machine learning techniq
 
 Data set: [test.csv](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge) 
 
-Libraries: NumPy, pandas, scikit-learn, NLTK, Matplotlib, Seaborn
+Libraries: TensorFlow, Keras, NumPy, pandas, scikit-learn, NLTK, Matplotlib, Seaborn
 
