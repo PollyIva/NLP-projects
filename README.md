@@ -2,7 +2,7 @@
 
 ### [1.Spam Classifier](https://github.com/PollyIva/NLP-projects/blob/main/Spam_Сlassifier/spam_recognition.ipynb)
 
-This project aims to create a spam classifier using natural language processing techniques. The dataset used for this project contains a collection of SMS messages labeled as spam or ham.
+This project aims to create a spam classifier using natural language processing techniques. The dataset used for this project contains a collection of SMS messages labeled as spam or not spam.
 
 Given 2 ways to find spam:
 
